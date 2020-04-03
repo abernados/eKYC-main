@@ -1277,3 +1277,83 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #404163;
 }
+.cid-rV4pIGh7lP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #404163;
+}
+.cid-rV5Gtp4Nv8 {
+  background-color: #fff2fd;
+  position: relative;
+  overflow: hidden;
+}
+.cid-rV5Gtp4Nv8 svg {
+  position: absolute;
+  bottom: 4rem;
+  left: 50%;
+  transform: translate(-50%) scale(2, 1.2);
+  animation: wave 5s ease-in-out infinite;
+}
+@keyframes line {
+  from {
+    transform: translateY(4px);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+  to {
+    transform: translateY(4px);
+  }
+}
+@keyframes wave {
+  from {
+    transform: rotate(-0.2deg) translate(-50%) scale(2, 1.2);
+  }
+  50% {
+    transform: rotate(0.2deg) translate(-50%) scale(2.1, 1.3);
+  }
+  to {
+    transform: rotate(-0.2deg) translate(-50%) scale(2, 1.2);
+  }
+}
+.cid-rV5Gtp4Nv8 .mbr-text,
+.cid-rV5Gtp4Nv8 .mbr-section-btn {
+  color: #716c80;
+}
+.cid-rV5Gtp4Nv8 #e12_areaS3 {
+  fill: #ffe1f0 !important;
+}
+.cid-rV5Gtp4Nv8 #e19_areaS3 {
+  fill: #ffbfe2 !important;
+}
+.cid-rV5Gtp4Nv8 H1 {
+  color: #57468b;
+}
+.cid-rV5Gtp4Nv8 img {
+  width: 70%;
+  border-radius: 10px;
+  animation: line 4s ease-in-out infinite;
+}
+.cid-rV5Gtp4Nv8 .box {
+  width: 95%;
+  height: 90%;
+  opacity: 0.5;
+  background-color: #ffffff;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 0.5rem;
+}
+@media (max-width: 1200px) {
+  .cid-rV5Gtp4Nv8 .box {
+    top: 2%;
+    width: 97%;
+    height: 96%;
+  }
+}
+@media (max-width: 576px) {
+  .cid-rV5Gtp4Nv8 img {
+    width: 100%;
+  }
+}
