@@ -68,11 +68,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "eKYC",
-        "meta_descr": "Know your customer, know your citizen through digital ID.",
-        "header_custom": "<meta name=\"title\" content=\"OFH\">\n<meta name=\"description\" content=\"Know your customer, know your citizen through digital ID.\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://ekyc.ph/\">\n<meta property=\"og:title\" content=\"eKYC\">\n<meta property=\"og:description\" content=\"Know your customer, know your citizen through digital ID. \">\n\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image:src\" content=\"https://ekyc.ph/assets/images/banner-facial-recognition-copy-1.jpg\" />\n<meta property=\"og:image\" content=\"https://ekyc.ph/assets/images/banner-facial-recognition-copy-1.jpg\" />\n\n\n<!-- Twitter -->\n<meta property=\"twitter:url\" content=\"http://ekyc.ph/\">\n<meta property=\"twitter:description\" content=\"Know your customer, know your citizen through digital ID.\">\n",
+        "title": "eKYC | Know your customer, know your citizen through digital ID",
+        "meta_descr": "",
+        "header_custom": "<meta name=\"title\" content=\"eKYC | Know your customer, know your citizen through digital ID\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://ekyc.ph/\">\n<meta property=\"og:title\" content=\"eKYC | Know your customer, know your citizen through digital ID\">\n\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image:src\" content=\"https://ekyc.ph/assets/images/banner-facial-recognition-copy-1.jpg\" />\n<meta property=\"og:image\" content=\"https://ekyc.ph/assets/images/banner-facial-recognition-copy-1.jpg\" />\n\n\n<!-- Twitter -->\n<meta property=\"twitter:url\" content=\"http://ekyc.ph/\">\n<meta property=\"twitter:title\" content=\"Know your customer, know your citizen through digital ID.\">\n",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/banner-facial-recognition-copy-1.jpg"
       },
       "components": [
         {
