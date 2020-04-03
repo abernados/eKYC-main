@@ -802,10 +802,15 @@ section.lazy-placeholder:after {
   .cid-rV4XuKTxvQ img {
     width: 100%;
   }
+  .cid-rV4XuKTxvQ .download-buttons {
+    padding-top: 1rem;
+    height: 120px;
+    padding-bottom: 1rem;
+  }
 }
 .cid-rV4XuKTxvQ .download-buttons {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 .cid-rV3FJ2Fbw9 {
   padding-top: 60px;
