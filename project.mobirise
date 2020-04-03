@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/ekyc.png",
+    "favicon": "@PROJECT_PATH@/assets/images/group-193x-1.png",
     "noImageResize": true,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -70,7 +70,7 @@
         "main": true,
         "title": "eKYC",
         "meta_descr": "Know your customer, know your citizen through digital ID.",
-        "header_custom": "<meta name=\"title\" content=\"OFH\">\n<meta name=\"description\" content=\"Know your customer, know your citizen through digital ID.\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://ekyc.ph/\">\n<meta property=\"og:title\" content=\"eKYC\">\n<meta property=\"og:description\" content=\"Know your customer, know your citizen through digital ID. \">\n\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image:src\" content=\"https://abernados.github.io/eKYC-main/assets/images/shutterstock-1221445678.jpg\" />\n<meta property=\"og:image\" content=\"https://abernados.github.io/eKYC-main/assets/images/shutterstock-1221445678.jpg\" />\n\n\n<!-- Twitter -->\n<meta property=\"twitter:url\" content=\"http://ekyc.ph/\">\n<meta property=\"twitter:description\" content=\"Know your customer, know your citizen through digital ID.\">\n",
+        "header_custom": "<meta name=\"title\" content=\"OFH\">\n<meta name=\"description\" content=\"Know your customer, know your citizen through digital ID.\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<meta name=\"language\" content=\"English\">\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://ekyc.ph/\">\n<meta property=\"og:title\" content=\"eKYC\">\n<meta property=\"og:description\" content=\"Know your customer, know your citizen through digital ID. \">\n\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:image:src\" content=\"https://ekyc.ph/assets/images/banner-facial-recognition-copy-1.jpg\" />\n<meta property=\"og:image\" content=\"https://ekyc.ph/assets/images/banner-facial-recognition-copy-1.jpg\" />\n\n\n<!-- Twitter -->\n<meta property=\"twitter:url\" content=\"http://ekyc.ph/\">\n<meta property=\"twitter:description\" content=\"Know your customer, know your citizen through digital ID.\">\n",
         "footer_custom": "",
         "html_before": ""
       },
