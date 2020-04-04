@@ -1082,8 +1082,8 @@ section.lazy-placeholder:after {
 @media (max-width: 576px) {
   .cid-rV4XuKTxvQ .download-buttons {
     padding-top: 1rem;
-    height: 70px;
     min-height: 8%;
+    height: 8%;
     padding-bottom: 1rem;
   }
 }
